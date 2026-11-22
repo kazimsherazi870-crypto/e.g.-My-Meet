@@ -143,5 +143,4 @@ startAutoPlay();
       return;
     }
     $("#formMsg").text("Form validated successfully. Connect this form to your email/backend to receive messages.").css("color","#b9ff3f");
-  });
 });
